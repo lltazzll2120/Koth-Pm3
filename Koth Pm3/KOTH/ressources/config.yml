@@ -1,0 +1,15 @@
+---
+"koth":
+    "executeWhenCaptured":
+      - "say hello {player}"
+      - "say nope"
+    "timeToCapture": 30
+    "coords1": "0:0:0:world"
+    "coords2": "10:0:10:world"
+    "enabled": false
+"captureBar": "§8[{bar}§8]\n{time}"
+"captureBarMessage": "Capturing Koth..."
+"broadcastCaptureMessage": "{factionName} has captured the KOTH! Congratulations!"
+"outsideKothMessage": "§cYou are not inside koth anymore"
+"broadcastMessage": "Koth has started!"
+...
